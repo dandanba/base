@@ -75,5 +75,8 @@ dependencies {
 
     compile 'com.badoo.mobile:android-weak-handler:1.1'
 
+    compile 'pub.devrel:easypermissions:0.1.7'
+    compile 'com.liulishuo.filedownloader:library:1.4.2'
+
     testCompile 'junit:junit:4.12'
 }
