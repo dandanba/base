@@ -11,6 +11,8 @@ public class ActivityCollector {
 
     public ActivityCollector() {
         mContainer = new ArrayList<>();
+
+
     }
 
     public void addActivity(Activity activity) {

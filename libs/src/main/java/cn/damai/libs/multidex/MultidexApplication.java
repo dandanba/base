@@ -15,4 +15,5 @@ public class MultidexApplication extends MultiDexApplication {
         super.attachBaseContext(base);
         MultiDex.install(this);
     }
+
 }
