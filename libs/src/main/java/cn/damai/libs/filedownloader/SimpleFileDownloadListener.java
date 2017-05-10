@@ -7,7 +7,7 @@ import com.liulishuo.filedownloader.FileDownloadListener;
  * Created by wanggeng on 2017/5/4.
  */
 
-public class SampleFileDownloadListener extends FileDownloadListener {
+public class SimpleFileDownloadListener extends FileDownloadListener {
     @Override
     protected void pending(BaseDownloadTask task, int soFarBytes, int totalBytes) {
     }
